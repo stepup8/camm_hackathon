@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "strategy": "equal",
+      "episodes": 5,
+      "mean_rmse": 0.062325706699943306,
+      "sample_sd": 0.009666837669057403,
+      "scores": [
+        0.047142751670055064,
+        0.07363552718237903,
+        0.061569407406696135,
+        0.06606678644780642,
+        0.06321406079277989
+      ]
+    },
+    {
+      "strategy": "variable",
+      "episodes": 5,
+      "mean_rmse": 0.05369673063984225,
+      "sample_sd": 0.010260245239210904,
+      "scores": [
+        0.04504115548723469,
+        0.044113903101409176,
+        0.05393889178427106,
+        0.05589963369407026,
+        0.06949006913222609
+      ]
+    }
+  ],
+  "variable_vs_equal_mean_rmse_percent_change": -13.844971067305856,
+  "difference_variable_minus_equal_bootstrap_95": [
+    -0.019063649143048388,
+    0.0026994603854960443
+  ],
+  "actual_variable_duration_range": [
+    0.715936838378248,
+    1.4030994927596507
+  ],
+  "caveat": "Five independent episodes per arm; descriptive bootstrap may be unstable with this sample size. Both arms use 60 scalar readings at 30 unique locations (pilot plus completion). All pilot time counts in the 30-unit budget. Duration weighting assumes approximately inverse-time variance; pilot-dependent allocation can introduce selection effects. This evaluates the full practical strategy, not ideal allocation with known noiseless intensities."
+}

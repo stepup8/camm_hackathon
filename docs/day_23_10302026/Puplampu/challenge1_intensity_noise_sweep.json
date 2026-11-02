@@ -1,0 +1,3411 @@
+{
+  "created_utc": "2026-10-30T19:44:59.049241+00:00",
+  "energies": [
+    0.0,
+    1.0,
+    2.5,
+    3.8,
+    5.0,
+    6.0,
+    7.3,
+    9.0
+  ],
+  "duration": 1.0,
+  "repeats": 30,
+  "sessions": [
+    {
+      "session_id": "LsB_jaNIFmVo2OodaC9MAO29iPXtrpjU",
+      "time_budget": 30.0
+    },
+    {
+      "session_id": "xY8a88PA8qnSvqAia2KoPKxd6LWtROoT",
+      "time_budget": 30.0
+    },
+    {
+      "session_id": "PMCgFEiA5POYMTwUInPrIXTnAm7L3tN5",
+      "time_budget": 30.0
+    },
+    {
+      "session_id": "1kn9SLrDRFlLIpy4LVupZ5BmJExOh9PG",
+      "time_budget": 30.0
+    },
+    {
+      "session_id": "IVKdCuVWmUHQBGhfQghHaz8k6U4Tbzoz",
+      "time_budget": 30.0
+    },
+    {
+      "session_id": "TqH5wgcBdeZ5YqW2C7YIjzgJPacPZwuA",
+      "time_budget": 30.0
+    },
+    {
+      "session_id": "Jly9HVH4LygWG-rcpau2QsZUB3j-hWkO",
+      "time_budget": 30.0
+    },
+    {
+      "session_id": "5yehoGTqG87tmTqpYbLH0Iz7aJL8QvBY",
+      "time_budget": 30.0
+    }
+  ],
+  "observations": [
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.020643381511177276,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.16428655995484903,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.9283434122198325,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.004860917756219295,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8568753983243287,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.27727648498357305,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.9423566792729555,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.030672839820168267,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7400976528043595,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.12195153251337437,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.9565737938705504,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8192702701339172,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07438584533467159,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.18805378523087063,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.12087227581885207,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 2.3703608887454264e-05,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7788157462160576,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8966003884102745,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 1.0615517768830098,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.026225437476146224,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.18401911517991273,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.06810462531716341,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8286273807781821,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": -0.025908691889704655,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.030250882352683604,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7237037366116329,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1735942442129596,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1439322022313111,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.9277356436964549,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 0,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1788218429833774,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.027033975747269345,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.730018528353487,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8962597661871823,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.13274409354942832,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.06220998850373389,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05524703456334776,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.6606193581358567,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07411116199517108,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.06354474965562676,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 1.025927494848427,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7965728023623211,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09995329015302484,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07658127375228826,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07479187226669003,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.7642868069310682,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.0800583330893111,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8939445851158034,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09603877436180025,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.010628840203753362,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": -0.07039469206940212,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.10535550834959126,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.890534882655312,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.9221311545755557,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 1.0209471317680592,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.11473992270160371,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09648108018489648,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1451965782607472,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1978978668267749,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.08828401778816307,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 1,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.15340705197890753,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.957864225809584,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.09017630860247089,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.879534620821935,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8292965977369003,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.030619772367437736,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8046967414248951,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1771468145339249,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.2885888348396111,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05906970755502533,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.026289946944475666,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.29362865365222723,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.9159741751749112,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.028040761612324057,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.13187341295815375,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.04234145881150436,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8395692469784304,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8140902565365854,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.14055128404880693,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.021924615533978252,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 1,
+      "session_index": 2,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.6616918231959243,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8606498498028047,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8436262879545043,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.9412336012126351,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.7468204409680934,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.11903038470423583,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8350569655461699,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": -0.08589292369534518,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7999234474441945,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7052902860464145,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 2,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07503386193076589,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.08964218966479165,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.03043927960726859,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.17335794866516707,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.9549118870993405,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.16712084407729494,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.052618819824113136,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.7409026550430955,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.18931088929693873,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.039362538300403996,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.008570384090722957,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.006523972373723912,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09701655252873445,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8838637646743526,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.12863215540291703,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.11730406979331448,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.004962854485877181,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.02300239925927766,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.14196506927653502,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8416337163261806,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.034091010911036834,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.9623508836939999,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.08086246784808004,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.053436981843302894,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05992242473918033,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07656768182697299,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7870671786066532,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8440576416528782,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.12717779479885138,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.90091664017471,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 3,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.12101713882678253,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1501973594211952,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.1551894642776888,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.22534435063894132,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.10607556791824257,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.9421973252305008,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.08169210201674279,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07371088288699668,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1528884973283639,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05693042172196408,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.18396686559706366,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.10487328664411204,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.18522717788057924,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.868562469506242,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.10211592662721518,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8299330715238692,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05975280434002497,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8488851901087465,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.21701194844859506,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.07223277106197307,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.1929612036352225,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8358211749467332,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8479401537671025,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09488612863150556,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.16151562755720011,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09810568788703712,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.885728443129556,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7511475087938766,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8183433729392782,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": -0.045015758906245054,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 4,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.848341381782645,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8599460755874171,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8062766284902112,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.06894444865213836,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.17102799421351378,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.197405409182666,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.12200640553640926,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.6806435717266275,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.690664801858467,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.14841978270476103,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 2,
+      "session_index": 5,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.817893207010004,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.6622316738856169,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8658074564097729,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.013504606828477723,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.04554423013288183,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.0335283976367456,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.06400405603756568,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7008601538805124,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7796858221815756,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.21537632685220146,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.005597692947910141,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.9236842641823123,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.24396005252544709,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8487167936465493,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.08823334950852263,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.9071877836605092,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8499258771128321,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.14718851223505144,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7047636636319553,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.18509996233455975,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 5,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05476043516461722,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8388811407037213,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.11995420598700512,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.08990489684481193,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.0218796308249479,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.17668255896299695,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.0569150724896611,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8478026315972986,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.09634041548239632,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8568000522889511,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05657468197607242,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.9815393742032362,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.054184861001331214,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7341478667490102,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.21472093960435285,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": -0.004655290509834646,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.19558669518256605,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.9543397302766606,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.901248524992565,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.241558181728263,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.01026514400789626,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09836205773560375,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.12202330307699166,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.12483314988611252,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.178943086329257,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.11403833764225725,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.08930306195834789,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.10342922890208851,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": 0.10994095464658904,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.8690386111209636,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 6,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.8369353221616732,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 1.011144909839009,
+        "time_used": 1.0,
+        "time_remaining": 29.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.05270473956133946,
+        "time_used": 2.0,
+        "time_remaining": 28.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": -0.004156343850777726,
+        "time_used": 3.0,
+        "time_remaining": 27.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.7313028399528246,
+        "time_used": 4.0,
+        "time_remaining": 26.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.9344891856187145,
+        "time_used": 5.0,
+        "time_remaining": 25.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.14591204370326313,
+        "time_used": 6.0,
+        "time_remaining": 24.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7932108599377734,
+        "time_used": 7.0,
+        "time_remaining": 23.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.19993595206549009,
+        "time_used": 8.0,
+        "time_remaining": 22.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7969446518437965,
+        "time_used": 9.0,
+        "time_remaining": 21.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.03589908422987061,
+        "time_used": 10.0,
+        "time_remaining": 20.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7680904813451105,
+        "time_used": 11.0,
+        "time_remaining": 19.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.12300304137930669,
+        "time_used": 12.0,
+        "time_remaining": 18.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 5.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 5.0,
+        "measurement_time": 1.0,
+        "intensity": 0.939312598392832,
+        "time_used": 13.0,
+        "time_remaining": 17.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": -0.010194286851097273,
+        "time_used": 14.0,
+        "time_remaining": 16.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.03453667751262759,
+        "time_used": 15.0,
+        "time_remaining": 15.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7686076703146059,
+        "time_used": 16.0,
+        "time_remaining": 14.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.09852095849937337,
+        "time_used": 17.0,
+        "time_remaining": 13.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 1.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 1.0,
+        "measurement_time": 1.0,
+        "intensity": -0.007037462388108845,
+        "time_used": 18.0,
+        "time_remaining": 12.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.8947495536069816,
+        "time_used": 19.0,
+        "time_remaining": 11.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.034709202060392394,
+        "time_used": 20.0,
+        "time_remaining": 10.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 9.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 9.0,
+        "measurement_time": 1.0,
+        "intensity": 0.09048042982042323,
+        "time_used": 21.0,
+        "time_remaining": 9.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.24884809354301562,
+        "time_used": 22.0,
+        "time_remaining": 8.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7621721257684811,
+        "time_used": 23.0,
+        "time_remaining": 7.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 0.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 0.0,
+        "measurement_time": 1.0,
+        "intensity": 0.06441400398892057,
+        "time_used": 24.0,
+        "time_remaining": 6.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.24326917408739235,
+        "time_used": 25.0,
+        "time_remaining": 5.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 7.3,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 7.3,
+        "measurement_time": 1.0,
+        "intensity": 0.6996409970194947,
+        "time_used": 26.0,
+        "time_remaining": 4.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.11513508718829618,
+        "time_used": 27.0,
+        "time_remaining": 3.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 3.8,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 3.8,
+        "measurement_time": 1.0,
+        "intensity": 0.07103184890867356,
+        "time_used": 28.0,
+        "time_remaining": 2.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 2.5,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 2.5,
+        "measurement_time": 1.0,
+        "intensity": 0.7556467140520272,
+        "time_used": 29.0,
+        "time_remaining": 1.0
+      }
+    },
+    {
+      "block": 3,
+      "session_index": 7,
+      "energy": 6.0,
+      "result": {
+        "x": 0.3,
+        "y": 0.4,
+        "wavelength": 6.0,
+        "measurement_time": 1.0,
+        "intensity": 0.10925172179102195,
+        "time_used": 30.0,
+        "time_remaining": 0.0
+      }
+    }
+  ]
+}

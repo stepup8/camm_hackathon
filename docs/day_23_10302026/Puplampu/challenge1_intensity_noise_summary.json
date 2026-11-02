@@ -1,0 +1,94 @@
+{
+  "rows": [
+    {
+      "energy": 0.0,
+      "n": 30,
+      "mean_intensity": 0.05126387528878742,
+      "mean_se": 0.007839417826552014,
+      "noise_sd": 0.042938259813106595,
+      "variance": 0.001843694155777845,
+      "sd_bootstrap_95_low": 0.03217947051869376,
+      "sd_bootstrap_95_high": 0.05133899238118529
+    },
+    {
+      "energy": 1.0,
+      "n": 30,
+      "mean_intensity": 0.0629928044224657,
+      "mean_se": 0.010444533702992587,
+      "noise_sd": 0.05720706711752003,
+      "variance": 0.0032726485281884413,
+      "sd_bootstrap_95_low": 0.04103461697971533,
+      "sd_bootstrap_95_high": 0.07095449886504675
+    },
+    {
+      "energy": 2.5,
+      "n": 30,
+      "mean_intensity": 0.8584731706040413,
+      "mean_se": 0.014378056826835925,
+      "noise_sd": 0.07875186057149186,
+      "variance": 0.006201855543471694,
+      "sd_bootstrap_95_low": 0.05844903309269471,
+      "sd_bootstrap_95_high": 0.09539427089523322
+    },
+    {
+      "energy": 3.8,
+      "n": 30,
+      "mean_intensity": 0.09244951041586989,
+      "mean_se": 0.007769244879920656,
+      "noise_sd": 0.04255390675514059,
+      "variance": 0.0018108349801252,
+      "sd_bootstrap_95_low": 0.032008539266188546,
+      "sd_bootstrap_95_high": 0.05079336612239264
+    },
+    {
+      "energy": 5.0,
+      "n": 30,
+      "mean_intensity": 0.8629329572624093,
+      "mean_se": 0.01451636254455569,
+      "noise_sd": 0.07950939218576243,
+      "variance": 0.00632174344574938,
+      "sd_bootstrap_95_low": 0.05645464155459122,
+      "sd_bootstrap_95_high": 0.09792202958467752
+    },
+    {
+      "energy": 6.0,
+      "n": 30,
+      "mean_intensity": 0.1981813301961278,
+      "mean_se": 0.008195827892081516,
+      "noise_sd": 0.044890398139230625,
+      "variance": 0.0020151478450986405,
+      "sd_bootstrap_95_low": 0.032877897743535535,
+      "sd_bootstrap_95_high": 0.05402550148877352
+    },
+    {
+      "energy": 7.3,
+      "n": 30,
+      "mean_intensity": 0.8007289064954979,
+      "mean_se": 0.017813245946469734,
+      "noise_sd": 0.09756716627268935,
+      "variance": 0.009519351934482612,
+      "sd_bootstrap_95_low": 0.07318360849824632,
+      "sd_bootstrap_95_high": 0.11764837386013452
+    },
+    {
+      "energy": 9.0,
+      "n": 30,
+      "mean_intensity": 0.09106645251732016,
+      "mean_se": 0.01152221601563613,
+      "noise_sd": 0.06310977624211206,
+      "variance": 0.003982843857329452,
+      "sd_bootstrap_95_low": 0.04684868378946365,
+      "sd_bootstrap_95_high": 0.07700353715033278
+    }
+  ],
+  "spearman_mean_vs_sd": 0.6666666666666669,
+  "spearman_p_value": 0.07098765432098757,
+  "pearson_mean_vs_variance": 0.860392391050628,
+  "pearson_p_value": 0.006110108895107617,
+  "nonnegative_variance_fit": {
+    "intercept": 0.0020503603314821926,
+    "slope": 0.006151322109474143
+  },
+  "pooled_within_energy_sd": 0.06611365241973785,
+  "caveat": "Eight energies, 30 repeats each, duration 1. Correlation is across eight estimated energy-group means and noise SDs. It does not establish intensity as the cause of any energy-dependent noise. Bootstrap intervals assume independent observations; sessions may contribute variability."
+}

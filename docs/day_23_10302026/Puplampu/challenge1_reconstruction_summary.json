@@ -1,0 +1,291 @@
+{
+  "results": [
+    {
+      "cohort": "primary_equal_two_read",
+      "method": "Linear",
+      "datasets": 20,
+      "mean_dataset_rmse": 0.11780699305963556,
+      "sd_dataset_rmse": 0.013287059448488629,
+      "pooled_rmse": 0.11851669192607976,
+      "pooled_mae": 0.09079482056260761
+    },
+    {
+      "cohort": "primary_equal_two_read",
+      "method": "PCHIP",
+      "datasets": 20,
+      "mean_dataset_rmse": 0.10406988196469422,
+      "sd_dataset_rmse": 0.017674652659885496,
+      "pooled_rmse": 0.1054860844446347,
+      "pooled_mae": 0.07896914046943379
+    },
+    {
+      "cohort": "primary_equal_two_read",
+      "method": "Weighted smoothing spline",
+      "datasets": 20,
+      "mean_dataset_rmse": 0.09501272349402856,
+      "sd_dataset_rmse": 0.02538911358093978,
+      "pooled_rmse": 0.09818245443946333,
+      "pooled_mae": 0.07412890893283348
+    },
+    {
+      "cohort": "primary_equal_two_read",
+      "method": "Gaussian peaks",
+      "datasets": 20,
+      "mean_dataset_rmse": 0.0826826169351526,
+      "sd_dataset_rmse": 0.02165105503559644,
+      "pooled_rmse": 0.08533314079648005,
+      "pooled_mae": 0.06401226683963687
+    },
+    {
+      "cohort": "primary_equal_two_read",
+      "method": "Noise-calibrated GP",
+      "datasets": 20,
+      "mean_dataset_rmse": 0.09979002550531105,
+      "sd_dataset_rmse": 0.017658270547088774,
+      "pooled_rmse": 0.10126338421724361,
+      "pooled_mae": 0.07712789353643316
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method": "Linear",
+      "datasets": 5,
+      "mean_dataset_rmse": 0.11549644367347774,
+      "sd_dataset_rmse": 0.01764572163876793,
+      "pooled_rmse": 0.11656983183887296,
+      "pooled_mae": 0.08869788868119995
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method": "PCHIP",
+      "datasets": 5,
+      "mean_dataset_rmse": 0.09702643586197812,
+      "sd_dataset_rmse": 0.022828566173503435,
+      "pooled_rmse": 0.09915162128230164,
+      "pooled_mae": 0.06993179105248079
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method": "Weighted smoothing spline",
+      "datasets": 5,
+      "mean_dataset_rmse": 0.0836081848169649,
+      "sd_dataset_rmse": 0.036411597121957615,
+      "pooled_rmse": 0.0897272093200561,
+      "pooled_mae": 0.061470588239628525
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method": "Gaussian peaks",
+      "datasets": 5,
+      "mean_dataset_rmse": 0.0855384527186034,
+      "sd_dataset_rmse": 0.042299907170675714,
+      "pooled_rmse": 0.09353209401489404,
+      "pooled_mae": 0.06075204255484368
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method": "Noise-calibrated GP",
+      "datasets": 5,
+      "mean_dataset_rmse": 0.09432308542124007,
+      "sd_dataset_rmse": 0.024223435330622253,
+      "pooled_rmse": 0.09677946217434784,
+      "pooled_mae": 0.07046484563750681
+    },
+    {
+      "cohort": "all",
+      "method": "Linear",
+      "datasets": 25,
+      "mean_dataset_rmse": 0.11734488318240396,
+      "sd_dataset_rmse": 0.013876259026122,
+      "pooled_rmse": 0.1181298867817525,
+      "pooled_mae": 0.09037543418632608
+    },
+    {
+      "cohort": "all",
+      "method": "PCHIP",
+      "datasets": 25,
+      "mean_dataset_rmse": 0.102661192744151,
+      "sd_dataset_rmse": 0.01850505319777988,
+      "pooled_rmse": 0.10424998805635556,
+      "pooled_mae": 0.0771616705860432
+    },
+    {
+      "cohort": "all",
+      "method": "Weighted smoothing spline",
+      "datasets": 25,
+      "mean_dataset_rmse": 0.09273181575861582,
+      "sd_dataset_rmse": 0.027440091039180953,
+      "pooled_rmse": 0.09655065979204319,
+      "pooled_mae": 0.0715972447941925
+    },
+    {
+      "cohort": "all",
+      "method": "Gaussian peaks",
+      "datasets": 25,
+      "mean_dataset_rmse": 0.08325378409184277,
+      "sd_dataset_rmse": 0.02589751216945798,
+      "pooled_rmse": 0.08703474281409526,
+      "pooled_mae": 0.06336022198267822
+    },
+    {
+      "cohort": "all",
+      "method": "Noise-calibrated GP",
+      "datasets": 25,
+      "mean_dataset_rmse": 0.09869663748849687,
+      "sd_dataset_rmse": 0.018698401076883683,
+      "pooled_rmse": 0.10038262422478547,
+      "pooled_mae": 0.07579528395664789
+    }
+  ],
+  "comparisons_to_linear": [
+    {
+      "cohort": "primary_equal_two_read",
+      "method_minus_linear": "PCHIP",
+      "mean_rmse_difference": -0.013737111094941306,
+      "paired_episode_bootstrap_95": [
+        -0.01647284694541112,
+        -0.01100057913273068
+      ]
+    },
+    {
+      "cohort": "primary_equal_two_read",
+      "method_minus_linear": "Weighted smoothing spline",
+      "mean_rmse_difference": -0.022794269565606977,
+      "paired_episode_bootstrap_95": [
+        -0.029573510736002614,
+        -0.01610888257394392
+      ]
+    },
+    {
+      "cohort": "primary_equal_two_read",
+      "method_minus_linear": "Gaussian peaks",
+      "mean_rmse_difference": -0.03512437612448294,
+      "paired_episode_bootstrap_95": [
+        -0.04114526321092971,
+        -0.02898098073642217
+      ]
+    },
+    {
+      "cohort": "primary_equal_two_read",
+      "method_minus_linear": "Noise-calibrated GP",
+      "mean_rmse_difference": -0.018016967554324487,
+      "paired_episode_bootstrap_95": [
+        -0.02105378078935769,
+        -0.015105585365177771
+      ]
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method_minus_linear": "PCHIP",
+      "mean_rmse_difference": -0.018470007811499618,
+      "paired_episode_bootstrap_95": [
+        -0.02259936035599057,
+        -0.01416026187620575
+      ]
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method_minus_linear": "Weighted smoothing spline",
+      "mean_rmse_difference": -0.03188825885651282,
+      "paired_episode_bootstrap_95": [
+        -0.04551360215461492,
+        -0.015364457550311583
+      ]
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method_minus_linear": "Gaussian peaks",
+      "mean_rmse_difference": -0.029957990954874315,
+      "paired_episode_bootstrap_95": [
+        -0.048181536256597365,
+        -0.008616572683389187
+      ]
+    },
+    {
+      "cohort": "secondary_single_read",
+      "method_minus_linear": "Noise-calibrated GP",
+      "mean_rmse_difference": -0.021173358252237647,
+      "paired_episode_bootstrap_95": [
+        -0.026850835190511412,
+        -0.01535456282548327
+      ]
+    },
+    {
+      "cohort": "all",
+      "method_minus_linear": "PCHIP",
+      "mean_rmse_difference": -0.01468369043825297,
+      "paired_episode_bootstrap_95": [
+        -0.017181643858568924,
+        -0.012174384352282063
+      ]
+    },
+    {
+      "cohort": "all",
+      "method_minus_linear": "Weighted smoothing spline",
+      "mean_rmse_difference": -0.02461306742378815,
+      "paired_episode_bootstrap_95": [
+        -0.030956880708734716,
+        -0.018466938174759008
+      ]
+    },
+    {
+      "cohort": "all",
+      "method_minus_linear": "Gaussian peaks",
+      "mean_rmse_difference": -0.03409109909056121,
+      "paired_episode_bootstrap_95": [
+        -0.040289849481576455,
+        -0.027595566325148556
+      ]
+    },
+    {
+      "cohort": "all",
+      "method_minus_linear": "Noise-calibrated GP",
+      "mean_rmse_difference": -0.01864824569390712,
+      "paired_episode_bootstrap_95": [
+        -0.02142471145599439,
+        -0.015958446735137036
+      ]
+    }
+  ],
+  "primary_comparisons_to_gp": [
+    {
+      "method": "Linear",
+      "mean_rmse_difference_vs_gp": 0.018016967554324487,
+      "paired_episode_bootstrap_95": [
+        0.015074835798829869,
+        0.02110080518551831
+      ],
+      "episodes_better_than_gp": 0
+    },
+    {
+      "method": "PCHIP",
+      "mean_rmse_difference_vs_gp": 0.004279856459383177,
+      "paired_episode_bootstrap_95": [
+        0.0027187532307347533,
+        0.005880688581930064
+      ],
+      "episodes_better_than_gp": 3
+    },
+    {
+      "method": "Weighted smoothing spline",
+      "mean_rmse_difference_vs_gp": -0.004777302011282492,
+      "paired_episode_bootstrap_95": [
+        -0.008923396726609552,
+        -0.0007119137790865189
+      ],
+      "episodes_better_than_gp": 12
+    },
+    {
+      "method": "Gaussian peaks",
+      "mean_rmse_difference_vs_gp": -0.017107408570158453,
+      "paired_episode_bootstrap_95": [
+        -0.021677774768096087,
+        -0.012305798620346586
+      ],
+      "episodes_better_than_gp": 19
+    }
+  ],
+  "caveat": "Predicts noisy held-out observations, not hidden noiseless ground truth. Endpoint extrapolation not tested. Estimated noise is imperfect and uses earlier API calibration. Different peak shapes could yield different results. No API calls or organizer submissions. Bootstrap intervals resample whole datasets; intervals are descriptive and not corrected for multiple comparisons. Methods are compared within identical measured datasets.",
+  "spline_selection": "Default automatic GCV produced strong oversmoothing and is archived separately. Final spline comparison uses training-only inner linear-smoother LOO on a broad fixed logarithmic lambda grid. Fold-specific weights are held fixed during this inner tuning; outer held-out intensities are never used.",
+  "peak_model": "1\u20134 Gaussian peaks + linear background; BIC selects count within each training fold; two initial widths; bounded amplitudes, centers, widths.",
+  "protocol": "Interior leave-one-out (28 folds), training-fold-only weighting and model selection; standardized coordinates [0,1]. Primary cohort: 20 equal-time two-read episodes. Secondary: five single-read uniform episodes."
+}

@@ -1,0 +1,179 @@
+{
+  "results": [
+    {
+      "measurements": 15,
+      "duration": 2.0,
+      "episodes": 10,
+      "mean_rmse": 0.07148547168452167,
+      "sample_sd": 0.057812923353210005,
+      "median_rmse": 0.050109102867786595,
+      "min_rmse": 0.036445612147971075,
+      "max_rmse": 0.2272843972337961,
+      "selected_peak_counts": {
+        "3": 10
+      },
+      "scores": [
+        0.09358248265174456,
+        0.07697820370586912,
+        0.2272843972337961,
+        0.04015738884382374,
+        0.043085598682779724,
+        0.04060252634088076,
+        0.036445612147971075,
+        0.059081879502662464,
+        0.04050402068289573,
+        0.057132607052793466
+      ]
+    },
+    {
+      "measurements": 20,
+      "duration": 1.5,
+      "episodes": 10,
+      "mean_rmse": 0.041619153921559224,
+      "sample_sd": 0.008970787247529859,
+      "median_rmse": 0.04454039144253493,
+      "min_rmse": 0.02610523129253311,
+      "max_rmse": 0.05295595118952436,
+      "selected_peak_counts": {
+        "3": 10
+      },
+      "scores": [
+        0.03142157637169993,
+        0.04042632549088351,
+        0.02610523129253311,
+        0.04722592105732696,
+        0.03190235631044022,
+        0.04568402566308734,
+        0.043396757221982524,
+        0.04648521527836922,
+        0.05058817933974507,
+        0.05295595118952436
+      ]
+    },
+    {
+      "measurements": 30,
+      "duration": 1.0,
+      "episodes": 10,
+      "mean_rmse": 0.043617059684075005,
+      "sample_sd": 0.014143198522480832,
+      "median_rmse": 0.03757600245136541,
+      "min_rmse": 0.029735569753159028,
+      "max_rmse": 0.07337456010505886,
+      "selected_peak_counts": {
+        "3": 9,
+        "4": 1
+      },
+      "scores": [
+        0.03477921481811472,
+        0.03474387167933718,
+        0.0403727900846161,
+        0.04169834755279713,
+        0.07337456010505886,
+        0.03393640493231603,
+        0.029735569753159028,
+        0.055394412042549815,
+        0.05844886331845672,
+        0.03368656255434448
+      ]
+    },
+    {
+      "measurements": 40,
+      "duration": 0.75,
+      "episodes": 10,
+      "mean_rmse": 0.038415908727408174,
+      "sample_sd": 0.008976671433253845,
+      "median_rmse": 0.0391105386084469,
+      "min_rmse": 0.023227070833238928,
+      "max_rmse": 0.052043707647532765,
+      "selected_peak_counts": {
+        "3": 10
+      },
+      "scores": [
+        0.03841696356601031,
+        0.023227070833238928,
+        0.029553304982065157,
+        0.03477153823365112,
+        0.05002328510718729,
+        0.04066618574744723,
+        0.03980411365088348,
+        0.031720566553512415,
+        0.04393235095255312,
+        0.052043707647532765
+      ]
+    },
+    {
+      "measurements": 60,
+      "duration": 0.5,
+      "episodes": 10,
+      "mean_rmse": 0.03700236209794831,
+      "sample_sd": 0.006724046117072812,
+      "median_rmse": 0.035604713058224824,
+      "min_rmse": 0.027454315084277706,
+      "max_rmse": 0.04777776180186951,
+      "selected_peak_counts": {
+        "3": 10
+      },
+      "scores": [
+        0.03575258624417074,
+        0.03264836508533106,
+        0.047755775505462776,
+        0.03140240888764692,
+        0.03293200672848033,
+        0.040276916326659105,
+        0.027454315084277706,
+        0.038566645443306104,
+        0.04777776180186951,
+        0.0354568398722789
+      ]
+    }
+  ],
+  "comparisons_to_30": [
+    {
+      "measurements": 15,
+      "mean_difference_vs_30": 0.027868412000446666,
+      "bootstrap_95_difference": [
+        7.614469473350908e-05,
+        0.06754064236861178
+      ],
+      "mean_rmse_reduction_percent_vs_30": -63.8933761292068,
+      "welch_two_sided_p": 0.16927316915510562,
+      "holm_adjusted_p": 0.6770926766204225
+    },
+    {
+      "measurements": 20,
+      "mean_difference_vs_30": -0.001997905762515781,
+      "bootstrap_95_difference": [
+        -0.012390846005055703,
+        0.007265697022972845
+      ],
+      "mean_rmse_reduction_percent_vs_30": 4.580560397667599,
+      "welch_two_sided_p": 0.7112074017215705,
+      "holm_adjusted_p": 0.7112074017215705
+    },
+    {
+      "measurements": 40,
+      "mean_difference_vs_30": -0.005201150956666831,
+      "bootstrap_95_difference": [
+        -0.015482046723036547,
+        0.004103823889440282
+      ],
+      "mean_rmse_reduction_percent_vs_30": 11.924579497883524,
+      "welch_two_sided_p": 0.34150382079828606,
+      "holm_adjusted_p": 0.6830076415965721
+    },
+    {
+      "measurements": 60,
+      "mean_difference_vs_30": -0.0066146975861266916,
+      "bootstrap_95_difference": [
+        -0.016254337517823455,
+        0.001967986046641696
+      ],
+      "mean_rmse_reduction_percent_vs_30": 15.165390867788775,
+      "welch_two_sided_p": 0.20478450849879967,
+      "holm_adjusted_p": 0.6770926766204225
+    }
+  ],
+  "lowest_mean_count": 60,
+  "time_used": 1500.0,
+  "caveat": "Prospective fixed-setting count/duration sweep, ten independent episodes per setting; settings randomized within blocks. Same total budget, uniform placement, and Gaussian peak reconstruction. Four Welch comparisons versus N=30 are Holm-adjusted. Bootstrap CIs are descriptive, not multiplicity-adjusted; the lowest mean among five settings is exploratory and may be optimistic."
+}

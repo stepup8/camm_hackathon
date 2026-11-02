@@ -1,0 +1,140 @@
+{
+  "energy": 5.0,
+  "rows": [
+    {
+      "duration": 0.25,
+      "n": 30,
+      "mean_intensity": 0.8818195580334759,
+      "sample_sd": 0.16174751256998138,
+      "sd_bootstrap_95_low": 0.11255997249037233,
+      "sd_bootstrap_95_high": 0.19917842558709853,
+      "variance_times_duration": 0.0065405644556440715
+    },
+    {
+      "duration": 0.5,
+      "n": 30,
+      "mean_intensity": 0.8664987058704159,
+      "sample_sd": 0.1116800494925232,
+      "sd_bootstrap_95_low": 0.08221163531563189,
+      "sd_bootstrap_95_high": 0.13519972401196292,
+      "variance_times_duration": 0.006236216727326216
+    },
+    {
+      "duration": 1.0,
+      "n": 30,
+      "mean_intensity": 0.8787314029061705,
+      "sample_sd": 0.08026043520312688,
+      "sd_bootstrap_95_low": 0.05702773083179093,
+      "sd_bootstrap_95_high": 0.096547177677748,
+      "variance_times_duration": 0.006441737458995329
+    },
+    {
+      "duration": 2.0,
+      "n": 30,
+      "mean_intensity": 0.8519305932900127,
+      "sample_sd": 0.06363626384671223,
+      "sd_bootstrap_95_low": 0.046657223195003754,
+      "sd_bootstrap_95_high": 0.07712743945662054,
+      "variance_times_duration": 0.008099148152736747
+    },
+    {
+      "duration": 3.0,
+      "n": 30,
+      "mean_intensity": 0.8635306362521579,
+      "sample_sd": 0.04560408089598134,
+      "sd_bootstrap_95_low": 0.03108691646950516,
+      "sd_bootstrap_95_high": 0.057870366339256865,
+      "variance_times_duration": 0.006239196583101632
+    }
+  ],
+  "log_sd_log_duration_slope": -0.48338857638636873,
+  "session_summaries": [
+    {
+      "index": 0,
+      "n": 18,
+      "mean": 0.843512944432567,
+      "durations": [
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    {
+      "index": 1,
+      "n": 25,
+      "mean": 0.8695888799607334,
+      "durations": [
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    {
+      "index": 2,
+      "n": 20,
+      "mean": 0.8988127354919644,
+      "durations": [
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    {
+      "index": 3,
+      "n": 24,
+      "mean": 0.8621590974960106,
+      "durations": [
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    {
+      "index": 4,
+      "n": 21,
+      "mean": 0.8672582100969711,
+      "durations": [
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    {
+      "index": 5,
+      "n": 24,
+      "mean": 0.8662725715473213,
+      "durations": [
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    {
+      "index": 6,
+      "n": 18,
+      "mean": 0.8711852618248227,
+      "durations": [
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        3.0
+      ]
+    }
+  ],
+  "total_acquisition_time": 202.5,
+  "session_count": 7,
+  "caveat": "One energy, 30 observations per duration across randomized blocks and multiple sessions. Bootstrap intervals are descriptive and assume independent observations; session effects or drift may affect variability."
+}

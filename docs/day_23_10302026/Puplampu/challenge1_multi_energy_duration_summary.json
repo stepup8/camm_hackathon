@@ -1,0 +1,258 @@
+{
+  "summaries": [
+    {
+      "energy": 0.0,
+      "log_sd_log_duration_slope": -0.3628130710197188,
+      "slope_bootstrap_95": [
+        -0.4861432211257541,
+        -0.2322790153433856
+      ],
+      "variance_times_duration_mean": 0.002246686382437693,
+      "mean_equality_bootstrap_p": 0.9888011198880112,
+      "mean_difference_t3_minus_t025": -0.003506215970345679,
+      "mean_difference_bootstrap_95": [
+        -0.03344441470540576,
+        0.025783686156191147
+      ],
+      "historical_data": false,
+      "mean_equality_holm_adjusted_p": 1.0
+    },
+    {
+      "energy": 5.0,
+      "log_sd_log_duration_slope": -0.48338857638636895,
+      "slope_bootstrap_95": [
+        -0.6288136987294546,
+        -0.3380754809350181
+      ],
+      "variance_times_duration_mean": 0.006711372675560799,
+      "mean_equality_bootstrap_p": 0.6365363463653635,
+      "mean_difference_t3_minus_t025": -0.018288921781318024,
+      "mean_difference_bootstrap_95": [
+        -0.07903840465773981,
+        0.03866243119776704
+      ],
+      "historical_data": true,
+      "mean_equality_holm_adjusted_p": 1.0
+    },
+    {
+      "energy": 6.0,
+      "log_sd_log_duration_slope": -0.43567153420381227,
+      "slope_bootstrap_95": [
+        -0.5599329764509213,
+        -0.30975019435845397
+      ],
+      "variance_times_duration_mean": 0.002356734451731766,
+      "mean_equality_bootstrap_p": 0.11238876112388761,
+      "mean_difference_t3_minus_t025": -0.03502466519510389,
+      "mean_difference_bootstrap_95": [
+        -0.06536662600137234,
+        -0.0030955541218414145
+      ],
+      "historical_data": false,
+      "mean_equality_holm_adjusted_p": 0.44955504449555045
+    },
+    {
+      "energy": 7.3,
+      "log_sd_log_duration_slope": -0.5242733303952084,
+      "slope_bootstrap_95": [
+        -0.6530983962001403,
+        -0.4081599767183655
+      ],
+      "variance_times_duration_mean": 0.011831847303047309,
+      "mean_equality_bootstrap_p": 0.5458454154584541,
+      "mean_difference_t3_minus_t025": -0.009169268193252922,
+      "mean_difference_bootstrap_95": [
+        -0.08693675061018237,
+        0.06743386599962152
+      ],
+      "historical_data": false,
+      "mean_equality_holm_adjusted_p": 1.0
+    }
+  ],
+  "rows": [
+    {
+      "energy": 0.0,
+      "duration": 0.25,
+      "n": 30,
+      "mean": 0.04049975499953294,
+      "noise_sd": 0.07712809768152883,
+      "mean_se": 0.014081599639211746,
+      "variance_times_duration": 0.001487185862992863
+    },
+    {
+      "energy": 0.0,
+      "duration": 0.5,
+      "n": 30,
+      "mean": 0.03342030014705583,
+      "noise_sd": 0.06528145864320281,
+      "mean_se": 0.011918709161907591,
+      "variance_times_duration": 0.0021308344212920996
+    },
+    {
+      "energy": 0.0,
+      "duration": 1.0,
+      "n": 30,
+      "mean": 0.03944113294945394,
+      "noise_sd": 0.040576505896584396,
+      "mean_se": 0.00740822252810022,
+      "variance_times_duration": 0.0016464528307755483
+    },
+    {
+      "energy": 0.0,
+      "duration": 2.0,
+      "n": 30,
+      "mean": 0.04000776526897324,
+      "noise_sd": 0.03800076878293076,
+      "mean_se": 0.006937959421649771,
+      "variance_times_duration": 0.0028881168561875298
+    },
+    {
+      "energy": 0.0,
+      "duration": 3.0,
+      "n": 30,
+      "mean": 0.03699353902918726,
+      "noise_sd": 0.03204601868636428,
+      "mean_se": 0.005850775770917929,
+      "variance_times_duration": 0.0030808419409404262
+    },
+    {
+      "energy": 5.0,
+      "duration": 0.25,
+      "n": 30,
+      "mean": 0.8818195580334759,
+      "noise_sd": 0.16174751256998138,
+      "mean_se": 0.029530920418309733,
+      "variance_times_duration": 0.006540564455644071
+    },
+    {
+      "energy": 5.0,
+      "duration": 0.5,
+      "n": 30,
+      "mean": 0.8664987058704159,
+      "noise_sd": 0.1116800494925232,
+      "mean_se": 0.020389894110116113,
+      "variance_times_duration": 0.006236216727326217
+    },
+    {
+      "energy": 5.0,
+      "duration": 1.0,
+      "n": 30,
+      "mean": 0.8787314029061705,
+      "noise_sd": 0.08026043520312688,
+      "mean_se": 0.014653483611978107,
+      "variance_times_duration": 0.006441737458995329
+    },
+    {
+      "energy": 5.0,
+      "duration": 2.0,
+      "n": 30,
+      "mean": 0.8519305932900127,
+      "noise_sd": 0.06363626384671223,
+      "mean_se": 0.011618339061398253,
+      "variance_times_duration": 0.008099148152736747
+    },
+    {
+      "energy": 5.0,
+      "duration": 3.0,
+      "n": 30,
+      "mean": 0.8635306362521579,
+      "noise_sd": 0.04560408089598134,
+      "mean_se": 0.008326127940339796,
+      "variance_times_duration": 0.006239196583101632
+    },
+    {
+      "energy": 6.0,
+      "duration": 0.25,
+      "n": 30,
+      "mean": 0.23777092648512704,
+      "noise_sd": 0.0838610107064725,
+      "mean_se": 0.015310855753039079,
+      "variance_times_duration": 0.001758167279177774
+    },
+    {
+      "energy": 6.0,
+      "duration": 0.5,
+      "n": 30,
+      "mean": 0.20385066615880967,
+      "noise_sd": 0.06940103227947853,
+      "mean_se": 0.012670836964538188,
+      "variance_times_duration": 0.00240825164072861
+    },
+    {
+      "energy": 6.0,
+      "duration": 1.0,
+      "n": 30,
+      "mean": 0.19504308018972055,
+      "noise_sd": 0.050637847741855736,
+      "mean_se": 0.009245163823908808,
+      "variance_times_duration": 0.002564191623927364
+    },
+    {
+      "energy": 6.0,
+      "duration": 2.0,
+      "n": 30,
+      "mean": 0.2123502104468846,
+      "noise_sd": 0.03502463921799918,
+      "mean_se": 0.00639459498939275,
+      "variance_times_duration": 0.0024534507047020123
+    },
+    {
+      "energy": 6.0,
+      "duration": 3.0,
+      "n": 30,
+      "mean": 0.20274626129002316,
+      "noise_sd": 0.029437000583863095,
+      "mean_se": 0.005374436415024854,
+      "variance_times_duration": 0.0025996110101230686
+    },
+    {
+      "energy": 7.3,
+      "duration": 0.25,
+      "n": 30,
+      "mean": 0.8196262583276154,
+      "noise_sd": 0.2134237160091032,
+      "mean_se": 0.03896566118825409,
+      "variance_times_duration": 0.011387420638783584
+    },
+    {
+      "energy": 7.3,
+      "duration": 0.5,
+      "n": 30,
+      "mean": 0.8261862855519002,
+      "noise_sd": 0.15125544461968385,
+      "mean_se": 0.027615339654558084,
+      "variance_times_duration": 0.011439104763549124
+    },
+    {
+      "energy": 7.3,
+      "duration": 1.0,
+      "n": 30,
+      "mean": 0.7989224598107307,
+      "noise_sd": 0.12481475485715293,
+      "mean_se": 0.02278795224824672,
+      "variance_times_duration": 0.015578723030051181
+    },
+    {
+      "energy": 7.3,
+      "duration": 2.0,
+      "n": 30,
+      "mean": 0.8353628467633596,
+      "noise_sd": 0.07467506715396169,
+      "mean_se": 0.013633739587812641,
+      "variance_times_duration": 0.011152731308897375
+    },
+    {
+      "energy": 7.3,
+      "duration": 3.0,
+      "n": 30,
+      "mean": 0.8104569901343625,
+      "noise_sd": 0.056572245179520336,
+      "mean_se": 0.010328631604512062,
+      "variance_times_duration": 0.009601256773955286
+    }
+  ],
+  "new_measurements": 450,
+  "new_time_used": 607.5,
+  "new_sessions": 21,
+  "caveat": "Bootstrap assumes independent observations within groups; session effects or drift may contribute. Mean-equality tests are approximate centered-residual bootstraps, Holm-adjusted across four energies. No detected mean effect is not proof of no bias. E=5 uses earlier observations; all other energies were collected together in randomized blocks. No hidden ground truth used."
+}
