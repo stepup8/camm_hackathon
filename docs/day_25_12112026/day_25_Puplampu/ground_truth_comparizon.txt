@@ -1,0 +1,10 @@
+True inverse transform:
+[[  1.01042217  -0.36776359  53.54237821]
+ [  0.36776359   1.01042217 -68.94145319]]
+
+Estimated inverse transform:
+[[  1.01042945  -0.36787153  53.55681999]
+ [  0.36787153   1.01042945 -68.97680952]]
+
+Ground-truth registration RMSE: 0.018 pixels
+Maximum landmark error: 0.029 pixels
